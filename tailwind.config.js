@@ -6,8 +6,7 @@ module.exports = {
   ],
   theme: {
     extend: {
-
-      fontFamily: { ['Acumin Pro', 'sans-serif'] },
+      // fontFamily: { ['Acumin Pro', 'sans-serif'] },
     },
   },
   plugins: [
